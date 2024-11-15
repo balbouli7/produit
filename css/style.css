@@ -1,0 +1,28 @@
+body{
+    background-color: lightgray;
+}
+.product_image{
+    width: 150px; 
+}
+.product{
+    border: solid black;
+     margin: 10px; 
+    text-align: center; 
+    display: inline-block;
+    background-color: #EBEBEB;
+    width: 15%;
+    
+}
+#container{
+    text-align: center;
+}
+.product_button{
+    background-color: crimson;
+}
+#product1{
+    border: solid red;
+}
+#product2{
+    border: none;
+}
+
